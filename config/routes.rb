@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  root 'success#index'
   resources :properties
   resources :property_types
   resources :property_categories
