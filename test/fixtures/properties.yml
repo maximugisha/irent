@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  location: MyString
+  price: 
+  flag: MyString
+  created_at: 2020-02-29 21:00:34
+  edited_at: 2020-02-29 21:00:34
+  updated_at: 2020-02-29 21:00:34
+  property_category: one
+  property_type: 
+
+two:
+  name: MyString
+  description: MyString
+  location: MyString
+  price: 
+  flag: MyString
+  created_at: 2020-02-29 21:00:34
+  edited_at: 2020-02-29 21:00:34
+  updated_at: 2020-02-29 21:00:34
+  property_category: two
+  property_type: 
